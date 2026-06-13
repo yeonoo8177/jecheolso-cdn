@@ -1,0 +1,5 @@
+# 시크릿/상위 폴더 보호 — 발행 이미지만 추적
+.telegram
+*.token
+.env
+../.telegram
